@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Digital Resume",
+  "name": "This is a Digital Resume of Author 'Rohit Yadav'",
   "icons": [
     {
       "src": "favicon.ico",
